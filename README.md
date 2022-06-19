@@ -1,5 +1,5 @@
-# Автоматизированное тестирование сайта компании ZION
-## <a target="_blank" href="https://devzion.com">Главная страница ZION</a>
+# Автоматизированное тестирование сайта компании ZION Development
+## <a target="_blank" href="https://devzion.com">Главная страница ZION Development</a>
 
 ## :floppy_disk: Содержание:
 
